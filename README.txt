@@ -1,0 +1,2 @@
+1. Utilized the askBCS LA often in creating the script for PyBank
+2. Researched and modified a script for PyPoll.  (found here: https://github.com/Umarfoo/Banks_and_Polls_Calculations_Python/blob/master/PyPoll/main.py)...I kept getting errors with my code, got frustrated, searched the web and found this script.  I modified the script slightly...(give credit for it or not, most was written by another author, I modified it slightly to work for me.)
